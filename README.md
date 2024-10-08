@@ -1,2 +1,2 @@
-# TareaSemana1Actividad4
-Tarea Desarrollo de Aplicaciones Móviles Semana 1 Actividad 4 Grupo 4
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
